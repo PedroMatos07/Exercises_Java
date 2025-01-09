@@ -1,0 +1,2 @@
+In a bar, the entrance fee costs 10 reais for men and 8 reais for women. Each beer costs 5 reais, each soft drink costs 3 reais, and each skewer costs 7 reais. Additionally, the bar charges an artistic cover fee of 4 reais, but if the total consumption exceeds 30 reais, the cover fee is not charged. Write a program to read the following data for a customer at the bar: gender (F or M), number of beers, soft drinks, and skewers consumed. The program should then display a report with the total amount to be paid by the customer.
+

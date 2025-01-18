@@ -35,8 +35,10 @@ public class program {
 		}
 		
 		System.out.println();
-		
+		int pos=0;
 		for(TaxPayer taxpayer : list) {
+			pos++;
+			System.out.printf("Resume of %d taxpayer \n",pos);
 			System.out.printf("Total gross tax: %.2f \n", taxpayer.grossTax());
 			System.out.printf("Tax rebate: %.2f \n", taxpayer.taxRebate());
 			System.out.printf("Net tax: %.2f \n", taxpayer.netTax());

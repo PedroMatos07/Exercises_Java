@@ -31,6 +31,7 @@ public class Program {
 		
 		System.out.printf("Total : R$ %.2f", bill1.total());
 		
+		sc.close();
 		
 		
 	}
